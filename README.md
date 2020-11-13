@@ -7,30 +7,30 @@ python has lots of libraries for different purposes One library is speedtest-cli
 
 **Installation :**
 
-This module does not come built-in with Python. To install it type the below command in the terminal.
+This module does not come built-in with Python. To install it type the below command in the terminal.(without qoates)
 
 " pip install speedtest-cli  "
 
-After installing the above package one can check if the package is installed correctly or not by doing the version check. The version of the package can be checked using the following command
+After installing the above package one can check if the package is installed correctly or not by doing the version check. The version of the package can be checked using the following command (without qoates)
 
 " speedtest-cli --version "
 
 **Speedtest-cli Package :**
 
-Speedtest-cli is a module that is used in the command-line interface for testing internet bandwidth using speedtest.net. To get the speed in the megabits type the below command in the terminal.
+Speedtest-cli is a module that is used in the command-line interface for testing internet bandwidth using speedtest.net. To get the speed in the megabits type the below command in the terminal. (without qoates)
 
 " speedtest-cli "
 
-The above command gives the speed test result is in Megabits. To get the result in Bytes we can use the following command.
+The above command gives the speed test result is in Megabits. To get the result in Bytes we can use the following command. (without qoates)
 
 " speedtest-cli --bytes "
 
-The pictorial version of your speed test result can also be retrieved using this module. To do the same type the below command in the terminal.
+The pictorial version of your speed test result can also be retrieved using this module. To do the same type the below command in the terminal. (without qoates)
 
 " speedtest-cli --share "
 
 It returns a link on which we can visit on our browser and see the graphical representation of various kinds of our internet speed.
 
-To print a simpler version of the speed test result containing only Ping, Download & Upload results instead of detailed output.
+To print a simpler version of the speed test result containing only Ping, Download & Upload results instead of detailed output. (without qoates)
 
-"speedtest-cli --simple "
+" speedtest-cli --simple "
