@@ -34,3 +34,5 @@ It returns a link on which we can visit on our browser and see the graphical rep
 To print a simpler version of the speed test result containing only Ping, Download & Upload results instead of detailed output. (without quotes)
 
 " speedtest-cli --simple "
+
+you can also use the " with GUI " code . its more beautiful :)
